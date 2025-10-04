@@ -31,8 +31,8 @@
 
 <p align="center">
   <a href="https://github.com/ZA-Githu">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZA-Githu&show_icons=true&theme=radical" alt="ZA-Githu GitHub Stats" />
   </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZA-Githuv&show_icons=true&theme=radical" alt="ZA-Githu GitHub Stats" />
 </p>
 
 <p align="center">
