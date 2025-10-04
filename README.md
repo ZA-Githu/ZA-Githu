@@ -1,77 +1,89 @@
-# Hi 👋, I'm Ismat Zehra
+---
 
-🚀 **Aspiring Full Stack Developer | Passionate Learner of Agentic AI**
+<h1 align="center">Hi 👋, I'm Ismat Zehra</h1>
+<h3 align="center">Aspiring Full Stack Developer | Learning Agentic AI</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=Full+Stack+Web+Developer+in+Progress;Exploring+the+World+of+Agentic+AI;Lifelong+Learner+%7C+Tech+Explorer)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Learning+Agentic+AI+with+OpenAI+SDK;Currently+Studying+Full+Stack+at+SMIT" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-* 🌱 Currently Learning: **Full Stack Web Development at SMIT**
-* 🤖 Exploring: **Agentic AI with OpenAI Agents SDK**
-* 📫 Reach me via: [LinkedIn](#) | [Twitter](#)
+- 🌱 Currently Learning: **Full Stack Web Development at SMIT**  
+- 🤖 Exploring: **Agentic AI with OpenAI Agents SDK**
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-rashid-564375158/)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saiqkhan3333)
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack I’m Working With
 
-**Frontend:** HTML | CSS | JavaScript | TypeScript | React | Next.js
-**Backend:** Node.js | Express | APIs
-**Databases:** MongoDB | SQL
-**Other Tools:** Git | GitHub | VS Code | Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismat-zehra&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismat-zehra&theme=radical" alt="Streak Stats" height="160"/>  
-</p>  
+  <a href="https://github.com/ZA-Githu">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZA-Githuv&show_icons=true&theme=radical" alt="Sadiq Khan GitHub Stats" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismat-zehra&theme=react-dark&hide_border=true" alt="Activity Graph" />  
-</p>  
-
----
-
-## 🏆 Trophies
+  <a href="https://github.com/ZA-Githu">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZA-Githu&theme=radical" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ismat-zehra&theme=onedark&row=1&column=6" alt="Trophies"/>  
-</p>  
+  <a href="https://github.com/ZA-Githu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZA-Githu&theme=rogue" alt="Sadiq Khan GitHub Activity Graph" />
+  </a>
+</p>
+
+
+### Trophies 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZA-Githu" alt="ZA-Githu" /></a> </p>
+
+### 📂 My Repositories
+
+Feel free to explore my projects and give feedback!  
+I’m building real-world applications as I learn and grow in the field.
 
 ---
 
-## 📂 Featured Repositories
+### 🛠️ Tools & IDEs
 
-💡 Explore my projects to see my learning journey and feel free to give feedback!
-I aim to build **real-world applications** that solve problems and enhance user experience.
-
----
-
-## 🛠️ Tools & IDEs
-
-* Visual Studio Code
-* Git & GitHub
-* Postman
-* Figma (for UI/UX design)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vs,pycharm,figma,postman,linux,windows" />
+</p>
 
 ---
 
-## 📸 Coding in Action
+### 📸 Coding in Action
 
-![Coding GIF](https://raw.githubusercontent.com/ismat-zehra/ismat-zehra/main/assets/coding.gif)
-
----
-
-## 🐍 Snake Animation (My Contributions)
-
-![Snake Animation](https://raw.githubusercontent.com/ismat-zehra/ismat-zehra/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+### 🐍 Snake Eating My Contributions
 
-*"Building digital solutions that are smart, efficient, and human-centered with the power of Agentic AI."*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+
+### ⚡ Fun Fact
+
+> "Building digital solutions that are smart, efficient, and human-centered with the power of Agentic AI."
+
+---
